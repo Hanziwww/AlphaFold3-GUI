@@ -29,6 +29,7 @@
 
 <p align="center">
     Transform your protein structure prediction workflow with AFusion - a sleek, intuitive graphical interface that makes AlphaFold3 accessible to everyone. No more command-line hassles - just point, click, and predict.
+    Developed by Han Wang and Chunjie Tian @Tianlab
 </p>
 
 **[Demo site](https://af3gui.streamlit.app/)** *(generate input JSON files ONLY)*
